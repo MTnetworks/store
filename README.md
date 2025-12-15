@@ -37,3 +37,5 @@ https://github.com/wukongdaily/AutoBuildImmortalWrt/discussions/209
 - https://github.com/wukongdaily/DockerTarBuilder<br>
 - ### [OpenWrt/Armbian IMG安装器ISO] 🆕
 - https://github.com/wukongdaily/armbian-installer
+- ### 插件列表
+- https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/24.10.4/packages/x86_64/luci/
